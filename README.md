@@ -1,4 +1,4 @@
-#Life Calculator
+# Life Calculator
 ## iOS application made with xCode using Swift
 
 iOS Development - Final Project by Soo Spitz, Alex Jiang, Michelle Choi
