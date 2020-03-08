@@ -1,4 +1,7 @@
-iOS App - Final Project by Soo Spitz, Alex Jiang, Michelle Choi
+#Life Calculator
+## iOS application made with xCode using Swift
+
+iOS Development - Final Project by Soo Spitz, Alex Jiang, Michelle Choi
 
 This app is a lighthearted yet realistic app that applies the college grading system to life. In a lighthearted, yet somewhat realistic, manner, the app is designed to calculate what kind of life its users are living based on various categories. Our idea for the app stemmed from our belief that there are many more aspects to college life beyond the realm of GPA, which until this point is the only numerical/letter grade students receive while in college. 
 
